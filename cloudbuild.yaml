@@ -14,7 +14,6 @@
    - 'miracle-key-something'
    - '--image'
    - 'gcr.io/$PROJECT_ID/miracle-key-something:$COMMIT_SHA'
-   - '--allow-unauthenticated'
    - '--region'
    - 'asia-northeast2'
  images:
